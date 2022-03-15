@@ -1,0 +1,30 @@
+ { "carlist" : [
+    {
+        "modelName":"Tesla Model X",
+        "people": 4,
+        "suitcases": 1,
+        "category":"Budget",
+        "comfort":"Low",
+        "price": 0.00 ,
+        "image": "images/budget.png"
+    },
+    {
+        "modelName":"BMW i8",
+        "people": 5,
+        "suitcases": 3,
+        "category":"Standard",
+        "comfort":"Medium",
+       "price": 60.00,
+        "image": "images/car-main.png"
+    },
+    {
+        "modelName":" Tesla Cybertruck",
+        "people": 7,
+        "suitcases": 4,
+        "category":"Minivan",
+        "comfort":"High",
+        "price": 105.00 ,
+        "image": "images/minivan.png"
+    }
+    
+]}
